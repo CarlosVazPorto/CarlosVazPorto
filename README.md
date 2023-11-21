@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlosVazPorto
 - 👀 I’m interested in becoming a fullstack developer
-- 🌱 I’m currently learning frontend related things, like JavaScript, CSS and HTML
-- 💞️ I’m looking to collaborate on what's related with my studies and goals
+- 🌱 I’m currently learning frontend related things, like JavaScript, CSS, HTML, JQuery and React.
+- 💞️ I’m looking to collaborate on what's related with my studies and goals.
 - 📫 How to reach me: here, at my e-mail or at my LinkedIn account.
 
 <!---

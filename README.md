@@ -1,4 +1,5 @@
-<h1 align="center", color="EB5B00"> Carlos Vaz Porto </h1>
+
+<h1 align="center"> Carlos Vaz Porto </h1>
 
 <h2>About me:</h2>
 <p>Hi!</p>
@@ -10,20 +11,22 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white")
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript badge" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT badge" />
-<img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge" />
-<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux badge" />
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code badge" style="Flat" />
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white")
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white")
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white")
+![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white")
+![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black")
+![VS CODE](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC")
+
+<hr />
 
 <h3>Here is how to reach me: </h3>
 
-[![Linkedin](https://img.shields.io/badge/-Carlos Vaz Porto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=carlos-sergio-vaz-porto-junior)](https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282/)
+[![Linkedin](https://img.shields.io/badge/-carlos-sergio-vaz-porto-junior-48b009282-blue?style=flat-square&logo=Linkedin&logoColor=white&link=carlos-sergio-vaz-porto-junior-48b009282)](https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282/)
 
 [![Gmail Badge](https://img.shields.io/badge/-carlosvazporto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvazporto@gmail.com)](mailto:carlosvazporto@gmail.com)
 

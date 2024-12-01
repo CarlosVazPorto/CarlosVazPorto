@@ -1,11 +1,14 @@
-
 <h1 align="center"> Carlos Vaz Porto </h1>
+
+![](https://komarev.com/ghpvc/?username=CarlosVazPorto&color=006bed)
 
 <h2>About me:</h2>
 <p>Hi!</p>
 <p>My name is Carlos Sergio Vaz Porto Junior.</p>
 <p>Aside being a radiologist doctor for more than 25 years, I am someone who loves technology.</p>
 <p>I've been studying and working with some of the technologies listed below, but I am always eager to learn new things.</p>
+
+<hr />
 
 <h3>Some technologies I already worked with or studied are: </h3>
 
@@ -26,7 +29,7 @@
 
 <h3>Here is how to reach me: </h3>
 
-[![Linkedin](https://img.shields.io/badge/-carlos-sergio-vaz-porto-junior-48b009282-blue?style=flat-square&logo=Linkedin&logoColor=white&link=carlos-sergio-vaz-porto-junior-48b009282)](https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282/)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282)](https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282)
 
 [![Gmail Badge](https://img.shields.io/badge/-carlosvazporto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvazporto@gmail.com)](mailto:carlosvazporto@gmail.com)
 

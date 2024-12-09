@@ -29,9 +29,9 @@
 
 <h3>Here is how to reach me: </h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282)](https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-sergio-vaz-porto-junior-48b009282)
 
-[![Gmail Badge](https://img.shields.io/badge/-carlosvazporto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvazporto@gmail.com)](mailto:carlosvazporto@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-carlosvazporto@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:carlosvazporto@gmail.com)](mailto:carlosvazporto@gmail.com)
 
 [![GitHub](https://img.shields.io/github/followers/CarlosVazPorto?label=follow&style=social)](https://github.com/CarlosVazPorto)
 

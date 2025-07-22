@@ -5,7 +5,7 @@
 <h2>About me:</h2>
 <p>Hi!</p>
 <p>My name is Carlos Sergio Vaz Porto Junior.</p>
-<p>Aside being a radiologist doctor for more than 25 years, I am someone who loves technology.</p>
+<p>I have been a radiologist doctor for more than 25 years, and I am someone who loves technology.</p>
 <p>I've been studying and working with some of the technologies listed below, but I am always eager to learn new things.</p>
 
 <hr />
@@ -18,8 +18,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white")
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white")
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white")
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white")
 ![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white")
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black")

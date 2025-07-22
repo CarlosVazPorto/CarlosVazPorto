@@ -19,6 +19,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white")
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white")
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white")
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white")
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black")
 ![VS CODE](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC")

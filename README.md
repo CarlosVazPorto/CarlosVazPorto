@@ -36,4 +36,7 @@
 
 <hr />
 
+[![card](https://github-readme-stats.vercel.app/api?username=CarlosVazPorto&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![CarlosVazPorto](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosVazPorto&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 

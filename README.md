@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CarlosVazPorto&color=006bed)
 
-<h2>About me:</h2>
+<h2>About me: </h2>
 <p>Hi!</p>
 <p>My name is Carlos Sergio Vaz Porto Junior.</p>
 <p>I have been a radiologist doctor for more than 25 years, and I am someone who loves technology.</p>

@@ -1,6 +1,6 @@
 <h1 align="center"> Carlos Vaz Porto </h1>
 
-![](https://komarev.com/ghpvc/?username=CarlosVazPorto&color=006bed)
+![Photo](https://komarev.com/ghpvc/?username=CarlosVazPorto&color=006bed)
 
 <h2>About me: </h2>
 <p>Hi!</p>

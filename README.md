@@ -5,8 +5,7 @@
 <h2>About me: </h2>
 <p>Hi!</p>
 <p>My name is Carlos Sergio Vaz Porto Junior.</p>
-<p>I have been a radiologist doctor for more than 25 years, and I am someone who loves technology.</p>
-<p>I've been studying and working with some of the technologies listed below, but I am always eager to learn new things.</p>
+<p>I am a Frontend Developer, with more than 25 years previous background as a health care worker.</p>
 
 <hr />
 

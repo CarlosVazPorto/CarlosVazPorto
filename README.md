@@ -1,7 +1,5 @@
 <h1 align="center"> Carlos Vaz Porto </h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=CarlosVazPorto&color=006bed)
-
 <h2>About me: </h2>
 <p>Hi!</p>
 <p>My name is Carlos Sergio Vaz Porto Junior.</p>
